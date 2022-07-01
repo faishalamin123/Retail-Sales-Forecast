@@ -5,4 +5,4 @@ Proyek ini merupakan proyek akhir untuk menyelesaikan mata kuliah Data Analytics
 
 Tujuan dari proyek ini adalah memprediksi sales untuk satu minggu kedepan agar dapat digunakan sebagai acuan pengambilan keputusan bisnis marketing selama satu minggu kedepan. 
 
-Note : Apabila terdapat kendala mengakses file dapat menggunakan link : https://nbviewer.org/github/faishalamin123/Retail-Sales-Forecast/blob/main/Retail%20Sales%20Forecast.ipynb
+Note : Apabila terdapat kendala saat membuka file .ipynb, dapat mengakses menggunakan link : https://nbviewer.org/github/faishalamin123/Retail-Sales-Forecast/blob/main/Retail%20Sales%20Forecast.ipynb
